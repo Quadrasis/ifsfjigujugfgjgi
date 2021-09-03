@@ -1,0 +1,201 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+}
+.navbar-link {
+  font-height: 600;
+  font-size: 20px;
+}
+.navbar-item {
+  margin: 0 20px;
+}
+.navbar-button {
+  border-radius: 10px;
+  background-color: #03b3a1;
+  border-color: #03b3a1;
+  margin-left: 30px;
+}
+.carousel-item {
+  width: 100%;
+  height: 700px;
+}
+.carousel-item_img1 {
+  position: relative;
+  background-image: url(https://www.thebrokebackpacker.com/wp-content/uploads/2019/09/shutterstock_247478119.jpg);
+  background-size: cover;
+  height: 100%;
+}
+.carousel-item_img2 {
+  position: relative;
+  background-image: url(https://www.thebrokebackpacker.com/wp-content/uploads/2019/09/shutterstock_247478119.jpg);
+  background-size: cover;
+  height: 100%;
+}
+.carousel-item_img2 {
+  position: relative;
+  background-image: url(https://www.thebrokebackpacker.com/wp-content/uploads/2019/09/shutterstock_247478119.jpg);
+  background-size: cover;
+  height: 100%;
+}
+.carousel {
+  height: 700px;
+}
+.h3text {
+  position: absolute;
+  width: 200px;
+  height: 150px;
+  color: #ffffff;
+  bottom: 300px;
+  font-size: 23px;
+  text-align: right;
+  letter-spacing: 0.005em;
+  line-height: 75px;
+  font-weight: 600;
+}
+.partners-text-main {
+  width: 100%;
+  height: 400px;
+}
+.center-text {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.partners-text p {
+  width: 467px;
+  height: 72px;
+  left: 486px;
+  top: 868px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 36px;
+  text-align: center;
+}
+.partners-text h2 {
+  width: 500px;
+  font-size: 40px;
+  line-height: 60px;
+  color: #223939;
+  text-align: center;
+}
+.partners-text-main {
+  background: #ffffff;
+  height: 398px;
+}
+.partners-img img {
+  height: 150px;
+  width: 100px;
+  margin-left: 10%;
+}
+.product {
+  height: 712px;
+}
+.carousel-container {
+  width: 80%;
+  height: 412px;
+}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+}
+.navbar-link {
+  font-height: 600;
+  font-size: 20px;
+}
+.navbar-item {
+  margin: 0 20px;
+}
+.navbar-button {
+  border-radius: 10px;
+  background-color: #03b3a1;
+  border-color: #03b3a1;
+  margin-left: 30px;
+}
+.carousel-item {
+  width: 100%;
+  height: 700px;
+}
+.carousel-item_img1 {
+  position: relative;
+  background-image: url(https://www.thebrokebackpacker.com/wp-content/uploads/2019/09/shutterstock_247478119.jpg);
+  background-size: cover;
+  height: 100%;
+}
+.carousel-item_img2 {
+  position: relative;
+  background-image: url(https://www.thebrokebackpacker.com/wp-content/uploads/2019/09/shutterstock_247478119.jpg);
+  background-size: cover;
+  height: 100%;
+}
+.carousel-item_img2 {
+  position: relative;
+  background-image: url(https://www.thebrokebackpacker.com/wp-content/uploads/2019/09/shutterstock_247478119.jpg);
+  background-size: cover;
+  height: 100%;
+}
+.carousel {
+  height: 700px;
+}
+.h3text {
+  position: absolute;
+  width: 200px;
+  height: 150px;
+  color: #ffffff;
+  bottom: 300px;
+  font-size: 23px;
+  text-align: right;
+  letter-spacing: 0.005em;
+  line-height: 75px;
+  font-weight: 600;
+}
+.partners-text-main {
+  width: 100%;
+  height: 400px;
+}
+.center-text {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.partners-text p {
+  width: 467px;
+  height: 72px;
+  left: 486px;
+  top: 868px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 36px;
+  text-align: center;
+}
+.partners-text h2 {
+  width: 500px;
+  font-size: 40px;
+  line-height: 60px;
+  color: #223939;
+  text-align: center;
+}
+.partners-text-main {
+  background: #ffffff;
+  height: 398px;
+}
+.partners-img img {
+  height: 150px;
+  width: 100px;
+  margin-left: 10%;
+}
+.product {
+  height: 712px;
+}
+.carousel-container {
+  width: 80%;
+  height: 412px;
+}
+
